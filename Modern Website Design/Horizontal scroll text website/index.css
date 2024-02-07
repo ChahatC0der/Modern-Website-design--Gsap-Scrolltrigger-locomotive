@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#main{
+
+}
+.page1{
+    height: 100vh;
+    width:100%;
+    background-color: black;
+}
+
+.page1 h1{
+    font-size: 40vw;
+    font-weight:900;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
